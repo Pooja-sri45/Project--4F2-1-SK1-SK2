@@ -5,7 +5,7 @@
 
 2.PPT of the Project
 
-[cn project 1 (1).pptx](https://github.com/Pooja-sri45/Project--4F2-1-SK1-SK2/files/15448221/cn.project.1.1.pptx)
+[cn project 5.pptx](https://github.com/Pooja-sri45/Project--4F2-1-SK1-SK2/files/15466213/cn.project.5.pptx)
 
 
 3.Demo video(it should explain the steps to execute your Project) 
